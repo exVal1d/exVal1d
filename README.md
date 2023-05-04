@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @exVal1d
 - 👀 I’m interested in gaming, streaming and coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning HTML
 - 📫 You reach me on Discord exVal1d#5011
 
 <!---
